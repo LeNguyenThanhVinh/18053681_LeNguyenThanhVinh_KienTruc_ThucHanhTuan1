@@ -11,7 +11,7 @@ class LeNguyenThanhVinhThucHanhTuan1ApplicationTests {
     @Autowired
     private EmployeeRepository employeeRepository;
 
-    //Test on native branch
+    //Test native branch
 
     @Test
     void testSelect() {
