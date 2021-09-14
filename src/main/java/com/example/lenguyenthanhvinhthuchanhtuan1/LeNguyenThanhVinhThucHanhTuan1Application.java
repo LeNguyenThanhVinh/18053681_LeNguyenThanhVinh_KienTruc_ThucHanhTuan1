@@ -8,6 +8,7 @@ public class LeNguyenThanhVinhThucHanhTuan1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(LeNguyenThanhVinhThucHanhTuan1Application.class, args);
+
     }
 
 }
